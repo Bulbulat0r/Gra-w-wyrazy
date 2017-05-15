@@ -1,0 +1,9 @@
+Opis projektu na zaliczenie Akademii C# 2017 - Grupa Zaawansowana
+Wykonawca: Jakub Bulak
+Opis projektu: "Gra" na zasadzie takiej samej jak TypeRacer -
+wyrazy pojawiają się na ekranie, a zadaniem użytkownika jest jak
+najszybsze ich poprawne wpisanie.
+Projekt będzie zawierał kilka różnych poziomów trudności:
+a) timer przyśpieszający grę co każde poprawnie wpisane słowo,
+b) tryb 1 minutowy w tym samym tempie gry,
+pełną statystykę gry (dokładność, ilość słów na minutę)
